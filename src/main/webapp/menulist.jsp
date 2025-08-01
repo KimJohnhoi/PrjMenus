@@ -26,7 +26,7 @@ for(int i=0; i < menuList.size(); i++ ) {
 <title>Insert title here</title>
 </head>
 <body>
-  <h2>메뉴 목록</h2>
+  <h2>메뉴 목록을 보여준다</h2>
   <table border="1" width="80%" align="center">
 	  <tr>
 		  <td>Menu_id</td>
